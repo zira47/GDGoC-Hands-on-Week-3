@@ -14,3 +14,5 @@ Program JavaScript yang mensimulasikan mesin kasir sederhana. Menggunakan array,
 - JavaScript
 - Node.js
 - Console Output
+
+#
